@@ -3,6 +3,7 @@ OldPhonePad
 This is a console-based C# application that simulates typing on an old mobile phone keypad, where each key corresponds to multiple letters. The user can input digits (0-9) to type characters, with each digit corresponding to a set of characters, and the number of times a digit is pressed determines which character is selected. The program displays the final output when # is pressed and resets after each input sequence.
 
 Description
+
 The program is like the old mobile phone's multi-press system, where a user can press a digit multiple times to select a character from the corresponding set. For example:
 
 Press 2 once to type "A".
