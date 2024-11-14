@@ -56,7 +56,7 @@ public class OldPhonePad
                 
                 if (currentChar < '0' || currentChar > '9')
                 {
-                    Console.Writeline("Please press a number");
+                    Console.WriteLine("Please press a number");
                     continue;
                 }
                 Console.Write(currentChar);
