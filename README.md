@@ -30,8 +30,6 @@ Installation:
 
 4. Build and run the application.
 
-OR you can open the folder named "Old Phone Application" and run the .exe file
-
 Usage
 
 Typing:
